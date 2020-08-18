@@ -2,8 +2,8 @@
 package controller
 
 import (
-	"github.com/Antony15/wednesday-go-test/entity"
-	"github.com/Antony15/wednesday-go-test/service"
+	"github.com/Antony15/gin-gonic-rest-api/entity"
+	"github.com/Antony15/gin-gonic-rest-api/service"
 	"github.com/gin-gonic/gin"
 )
 

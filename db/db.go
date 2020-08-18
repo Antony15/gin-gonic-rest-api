@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	_ "github.com/Antony15/wednesday-go-test/mysql"
+	_ "github.com/Antony15/gin-gonic-rest-api/mysql"
 )
 
 // Function to open a mysql database connection, or return the resource if already open

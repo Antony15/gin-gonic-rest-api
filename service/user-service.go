@@ -7,8 +7,8 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/Antony15/wednesday-go-test/db"
-	"github.com/Antony15/wednesday-go-test/entity"
+	"github.com/Antony15/gin-gonic-rest-api/db"
+	"github.com/Antony15/gin-gonic-rest-api/entity"
 )
 
 // UserService interface
